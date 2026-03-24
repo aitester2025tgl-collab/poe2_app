@@ -1,0 +1,48 @@
+{
+  "build_name": "Earthquake Leveling Guide Build",
+  "class": "Warrior",
+  "version": "0.3",
+  "reputation": 50000,
+  "skill_tree_leveling": [
+    {
+      "level_range": "1-40",
+      "actions": [
+        { "type": "Skill", "name": "Rolling Slam", "level": 1 },
+        { "type": "Skill", "name": "Boneshatter", "level": 1 },
+        { "type": "Skill", "name": "Earthquake", "level": 1 },
+        { "type": "Passive", "name": "Resolute Technique" }
+      ]
+    }
+  ],
+  "passives": [
+    "Brutal Bestial Rage",
+    "Feral Force",
+    "Singular Purpose"
+  ],
+  "required_level": 1,
+  "equipment": {
+    "armor": "flat damage, life, armor, resistances, strength",
+    "boots": "life, armor, resistances, attack speed, +melee skills",
+    "helm": "life, armor, resistances, strength",
+    "gloves": "flat damage, life, attack speed, +melee skills, resistances, strength",
+    "rings": "flat damage, life, resistances, strength, attributes/dex/int",
+    "weapon": "phys damage %, flat phys/lightning/fire, attack speed, +melee skills",
+    "amulet": "armor, life, spirit, resistances, +melee skills, strength, attributes/dex/int"
+  },
+  "skills": {
+    "1-40": [
+      { "type": "Skill", "name": "Rolling Slam" },
+      { "type": "Skill", "name": "Boneshatter" },
+      { "type": "Skill", "name": "Earthquake" }
+    ]
+  },
+  "support_gems": [
+    { "type": "Support", "name": "Martial Tempo", "skill": "Rolling Slam" },
+    { "type": "Support", "name": "Impact Shockwave", "skill": "Boneshatter" }
+  ],
+  "passive_tree": [
+    "123",
+    "20",
+    "20"
+  ]
+}

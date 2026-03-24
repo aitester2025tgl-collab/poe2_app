@@ -1,0 +1,41 @@
+Build Validation Rules
+
+Minimum Skills
+
+A valid build must have at least 5 different skills by level 40.
+
+Builds with fewer than 5 skills are invalid.
+
+Early Skill Requirements
+
+Must have at least 1 skill at level 1.
+
+By level 5, there must be more than one skill.
+
+Skill Progression
+
+Only display new skills or new passives when progressing levels.
+
+If a skill is used in multiple levels but no new passives are added, do not repeat it.
+
+Skill Level Restrictions
+
+Skills must only appear if the player’s level meets the minimum required level for that skill.
+
+Levels Representation
+
+Levels may be represented by actual levels or ACTs depending on the source.
+
+Build Reputation
+
+Builds are selected based on reputation, e.g., number of views.
+
+Up to 10 builds per class can be stored in the database.
+
+When presenting, include the reputation score.
+
+Fallback Logic
+
+Always try to fetch online first.
+
+If no valid online build is available, fallback to local JSON database.

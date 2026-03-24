@@ -1,0 +1,2536 @@
+{
+  "Warrior": [
+    {
+      "build_name": "Earthquake Titan Leveling Guide",
+      "class": "Warrior",
+      "version": "0.3.0",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Boneshatter",
+              "passives": [
+                "Mace Damage",
+                "Area Damage",
+                "Stun Mastery"
+              ]
+            },
+            {
+              "type": "Skill",
+              "name": "Earthquake"
+            }
+          ]
+        },
+        {
+          "level_range": "11-20",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Hammer of the Gods"
+            },
+            {
+              "type": "Skill",
+              "name": "Shield Charge",
+              "passives": [
+                "Shield Block",
+                "Armour"
+              ]
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/earthquake-leveling-guide",
+      "confidence": 0.7778,
+      "reputation_normalized": 0.5,
+      "recommendation_score": 69.44
+    },
+    {
+      "build_name": "Woolie's FIREBRINGER",
+      "class": "Warrior",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Firebrand"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/warrior-starter-builds"
+    },
+    {
+      "build_name": "Boneshatter Titan Build Guide",
+      "class": "Warrior",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Boneshatter"
+            },
+            {
+              "type": "Passive",
+              "name": "Leap Slam"
+            }
+          ]
+        },
+        {
+          "level_range": "Act 1 to Lategame",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Earthquake"
+            },
+            {
+              "type": "Passive",
+              "name": "Mystic Circle"
+            }
+          ]
+        },
+        {
+          "level_range": "Full Leveling",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Perfect Strike"
+            },
+            {
+              "type": "Passive",
+              "name": "Fortify"
+            }
+          ]
+        }
+      ],
+      "url": "https://maxroll.gg/poe2/build-guides/boneshatter-titan-leveling-guide"
+    },
+    {
+      "build_name": "Twink Warrior Leveling Guide",
+      "class": "Warrior",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-6",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Charge",
+              "level": 1,
+              "passives": [
+                "Ingenuity"
+              ]
+            },
+            {
+              "type": "Skill",
+              "name": "Shockwave Totem",
+              "level": 1,
+              "passives": [
+                "Ancestral Urgency"
+              ]
+            },
+            {
+              "type": "Skill",
+              "name": "Infernal Cry",
+              "level": 1,
+              "passives": [
+                "Premeditation"
+              ]
+            }
+          ]
+        },
+        {
+          "level_range": "6-8",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Charge",
+              "level": 2,
+              "passives": [
+                "Stomping Ground",
+                "Momentum"
+              ]
+            }
+          ]
+        },
+        {
+          "level_range": "8-11",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Shockwave Totem",
+              "level": 2,
+              "passives": [
+                "Font of Rage",
+                "Font of Blood"
+              ]
+            }
+          ]
+        },
+        {
+          "level_range": "11-14",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Infernal Cry",
+              "level": 2,
+              "passives": [
+                "Raging Cry",
+                "Enraged Warcry"
+              ]
+            }
+          ]
+        },
+        {
+          "level_range": "14-",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Herald of Ash"
+            }
+          ]
+        }
+      ],
+      "url": "https://maxroll.gg/poe2/build-guides/twink-warrior-leveling-guide"
+    },
+    {
+      "build_name": "Best Leveling Uniques for Warrior",
+      "class": "Warrior",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Wanderlust"
+            }
+          ]
+        },
+        {
+          "level_range": "8-27",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Surefooted Sigil"
+            },
+            {
+              "type": "Skill",
+              "name": "Thrillsteel"
+            }
+          ]
+        },
+        {
+          "level_range": "33-",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Bushwhack"
+            }
+          ]
+        }
+      ],
+      "passives": [],
+      "required_level": 0,
+      "url": "https://maxroll.gg/poe2/meta/the-best-leveling-uniques"
+    },
+    {
+      "build_name": "Woolie's Warrior Leveling",
+      "class": "Warrior",
+      "version": "0.3",
+      "reputation": 22000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Rolling Slam",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Resolute Technique"
+            }
+          ]
+        },
+        {
+          "level_range": "10-30",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Boneshatter",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Resolute Technique"
+            }
+          ]
+        },
+        {
+          "level_range": "30-45",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Perfect Strike",
+              "level": 1,
+              "passives": [
+                "Resolute Technique"
+              ]
+            },
+            {
+              "type": "Passive",
+              "name": "Resolute Technique"
+            }
+          ]
+        },
+        {
+          "level_range": "45-60",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Earthquake",
+              "level": 1,
+              "passives": [
+                "Resolute Technique"
+              ]
+            },
+            {
+              "type": "Passive",
+              "name": "Resolute Technique"
+            }
+          ]
+        },
+        {
+          "level_range": "60-75",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Mace Strike",
+              "level": 1,
+              "passives": [
+                "Resolute Technique"
+              ]
+            },
+            {
+              "type": "Passive",
+              "name": "Resolute Technique"
+            }
+          ]
+        },
+        {
+          "level_range": "75-80",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Infernal Cry",
+              "level": 1,
+              "passives": [
+                "Resolute Technique"
+              ]
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/warrior-leveling-woolie"
+    },
+    {
+      "build_name": "Hollow Palm Monk Build - League Starter to Endgame (All Content)",
+      "class": "Warrior",
+      "version": "0.3",
+      "reputation": 3600,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Hollow Palm"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/starter-builds"
+    },
+    {
+      "build_name": "0.3 TTE Warrior Titan",
+      "class": "Warrior",
+      "version": "0.3",
+      "reputation": 57,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-Full Leveling",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Titan"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/warrior-builds"
+    },
+    {
+      "build_name": "Woolie's Warrior Leveling",
+      "class": "Warrior",
+      "version": "0.3",
+      "reputation": 51,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Rolling Slam",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Blood Rush"
+            }
+          ]
+        },
+        {
+          "level_range": "11-20",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Boneshatter",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Relentless"
+            }
+          ]
+        },
+        {
+          "level_range": "21-30",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Earthquake",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Reverberating Impact"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/profile/perra/builds/0-3-woolie-s-warrior-leveling-all-ascendancies"
+    }
+  ],
+  "Monk": [
+    {
+      "build_name": "Ice Strike Invoker",
+      "class": "Monk",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-Act 1",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Glacial Cascade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Combat Frenzy"
+            }
+          ]
+        },
+        {
+          "level_range": "Act 2-Act 3",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Ice Strike",
+              "level": 1,
+              "passives": [
+                "Resolute Technique"
+              ]
+            },
+            {
+              "type": "Skill",
+              "name": "Tempest Bell",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "level_range": "Act 3+",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Shattering Palm",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Charged Ground"
+            }
+          ]
+        }
+      ],
+      "required_level": 1,
+      "passives": [
+        "Combat Frenzy",
+        "Resolute Technique",
+        "Charged Ground"
+      ],
+      "url": "https://maxroll.gg/poe2/build-guides/tempest-flurry-invoker-leveling-guide"
+    },
+    {
+      "build_name": "Ignatius' Comprehensive Hollow Palm Guide",
+      "class": "Monk",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Hollow Palm"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds"
+    },
+    {
+      "build_name": "One-Shot Hollow Palm Monk",
+      "class": "Monk",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Ice Strike"
+            },
+            {
+              "type": "Passive",
+              "name": "Resolute Technique"
+            }
+          ]
+        },
+        {
+          "level_range": "10-20",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Shattering Palm"
+            },
+            {
+              "type": "Passive",
+              "name": "Distracted Target"
+            }
+          ]
+        },
+        {
+          "level_range": "20-30",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Herald of Ice"
+            },
+            {
+              "type": "Passive",
+              "name": "Lead me through Grace..."
+            }
+          ]
+        },
+        {
+          "level_range": "30-40",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Falling Thunder"
+            },
+            {
+              "type": "Passive",
+              "name": "Culmination II"
+            }
+          ]
+        },
+        {
+          "level_range": "40-50",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Hand of Chayula"
+            },
+            {
+              "type": "Passive",
+              "name": "Ailith's Chimes"
+            }
+          ]
+        },
+        {
+          "level_range": "50-60",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Elemental Conflux"
+            },
+            {
+              "type": "Passive",
+              "name": "Wind Dancer"
+            }
+          ]
+        },
+        {
+          "level_range": "60-70",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Ghost Dance"
+            },
+            {
+              "type": "Passive",
+              "name": "Subterfuge Mask"
+            }
+          ]
+        }
+      ],
+      "required_level": 1,
+      "passives": [
+        "Resolute Technique",
+        "Distracted Target",
+        "Lead me through Grace...",
+        "Culmination II",
+        "Ailith's Chimes"
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/league-starter-hollow-palm-monk-fgkorbyn21"
+    },
+    {
+      "build_name": "Best Leveling Uniques for Monk",
+      "class": "Monk",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-Full Leveling",
+          "actions": []
+        }
+      ],
+      "skills": [
+        "Wanderlust",
+        "Surefooted Sigil",
+        "Bushwhack",
+        "Thrillsteel",
+        "Death Rush"
+      ],
+      "url": "https://maxroll.gg/poe2/meta/the-best-leveling-uniques"
+    },
+    {
+      "build_name": "DonTheCrown's Cold Monk Leveling Build",
+      "class": "Monk",
+      "version": "0.1",
+      "reputation": 30000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Glacial Cascade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Flow Like Water"
+            },
+            {
+              "type": "Passive",
+              "name": "Mindful Awareness"
+            }
+          ]
+        },
+        {
+          "level_range": "11-30",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Frozen Locus",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Step Like Mist"
+            },
+            {
+              "type": "Passive",
+              "name": "Essence of the Mountain"
+            }
+          ]
+        },
+        {
+          "level_range": "31-60",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Ice Strike",
+              "level": 20
+            },
+            {
+              "type": "Passive",
+              "name": "Crashing Wave"
+            }
+          ]
+        }
+      ],
+      "passives": [
+        "Whirling Assault",
+        "Coming Calamity"
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/don-cold-monk"
+    },
+    {
+      "build_name": "Hyper SPEED Tank - HOLLOW PALM Monk Build",
+      "class": "Monk",
+      "version": "0.3",
+      "reputation": 3600,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Hollow Palm"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/monk-builds"
+    },
+    {
+      "build_name": "Hollow Palm Technique Acolyte of Chayula League Starter Guide",
+      "class": "Monk",
+      "version": "0.3",
+      "reputation": 618,
+      "skill_tree_leveling": [
+        {
+          "level_range": "Full Leveling",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Hollow Palm"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/monk-starter-builds"
+    },
+    {
+      "build_name": "Lazy's Hollow Palm Speed Alt Leveling | Monk Variant",
+      "class": "Monk",
+      "version": "0.3",
+      "reputation": 98,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-65",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Falling Thunder",
+              "level": 1
+            },
+            {
+              "type": "Skill",
+              "name": "Killing Palm",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "I am the Thunder..."
+            }
+          ]
+        }
+      ],
+      "required_level": 1,
+      "passives": [
+        "I am the Thunder..."
+      ],
+      "equipment": [
+        {
+          "item": "Pillar of the Caged God",
+          "level": 1
+        },
+        {
+          "item": "Wings of Caelyn"
+        },
+        {
+          "item": "Foxshade"
+        },
+        {
+          "item": "Meginord's Girdle"
+        },
+        {
+          "item": "Luminous Pace"
+        },
+        {
+          "item": "Splinter of Loratta",
+          "level": 5
+        },
+        {
+          "item": "Crown of the Victor"
+        },
+        {
+          "item": "Torn Gloves"
+        },
+        {
+          "item": "Jade Amulet / Lapis Amulet",
+          "level": 11
+        },
+        {
+          "item": "Wanderlust",
+          "level": 14
+        },
+        {
+          "item": "Ruby"
+        }
+      ],
+      "skill_gems": [
+        {
+          "gem": "Falling Thunder",
+          "support": [
+            "Disengage",
+            "Killing Palm",
+            "Tempest Bell",
+            "Herald of Thunder"
+          ]
+        },
+        {
+          "gem": "Killing Palm",
+          "level": 1,
+          "support": [
+            "Tempest Flurry"
+          ]
+        }
+      ],
+      "passive_tree": [
+        123,
+        123,
+        20,
+        20,
+        20,
+        20
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/lazyexile-monk-alt-leveling"
+    }
+  ],
+  "Mercenary": [
+    {
+      "build_name": "Grenade Mercenary Leveling Guide – Witchhunter",
+      "class": "Mercenary",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Fragmentation Rounds",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Permafrost Bolts"
+            }
+          ]
+        },
+        {
+          "level_range": "10-20",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Explosive Grenade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Permafrost Bolts"
+            }
+          ]
+        },
+        {
+          "level_range": "20-30",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Explosive Grenade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Permafrost Bolts"
+            }
+          ]
+        },
+        {
+          "level_range": "30-40",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Flash Grenade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Permafrost Bolts"
+            }
+          ]
+        },
+        {
+          "level_range": "40-50",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Explosive Grenade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Permafrost Bolts"
+            }
+          ]
+        },
+        {
+          "level_range": "50-60",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Gas Grenade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Permafrost Bolts"
+            }
+          ]
+        }
+      ],
+      "url": "https://maxroll.gg/poe2/build-guides/grenade-mercenary-leveling-guide"
+    },
+    {
+      "build_name": "Twink Explosive Grenade Mercenary Leveling Guide",
+      "class": "Mercenary",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Explosive Trap"
+            },
+            {
+              "type": "Passive",
+              "name": "Resolute Technique"
+            }
+          ]
+        }
+      ],
+      "url": "https://maxroll.gg/poe2/build-guides/twink-explosive-grenade-mercenary-leveling-guide"
+    },
+    {
+      "build_name": "Mercenary Thunder Levelling Build",
+      "class": "Mercenary",
+      "version": "0.1",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-Act 2 Cruel",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Galvanic Shards",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Primal Armament"
+            }
+          ]
+        },
+        {
+          "level_range": "Act 2 Cruel - End Game",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Herald of Thunder",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Conduction"
+            }
+          ]
+        }
+      ],
+      "required_level": 1,
+      "passives": [],
+      "url": "https://mobalytics.gg/poe-2/builds/mercenary-thunder-leveling-wilsunboxile"
+    },
+    {
+      "build_name": "HOLLOW PALM Monk Build - League Starter to Endgame (All Content) By Ronarray",
+      "class": "Mercenary",
+      "version": "0.3",
+      "reputation": 3600,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Hollow Palm"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/starter-builds"
+    },
+    {
+      "build_name": "Lazy's Ballista Banner Tactician",
+      "class": "Mercenary",
+      "version": "0.3",
+      "reputation": 919,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Ballista"
+            }
+          ],
+          "passives": [
+            "Tactician"
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/mercenary-builds"
+    },
+    {
+      "build_name": "Lazy's Ballista Banner Tactician",
+      "class": "Mercenary",
+      "version": "0.3",
+      "reputation": 918,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Ballista Banner"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/mercenary-starter-builds"
+    },
+    {
+      "build_name": "Mercenary Leveling Guide",
+      "class": "Mercenary",
+      "version": "0.2",
+      "reputation": 348,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Fragmentation Rounds",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Remorseless Ricochet"
+            }
+          ]
+        },
+        {
+          "level_range": "11-20",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "High Velocity Rounds",
+              "level": 2
+            },
+            {
+              "type": "Passive",
+              "name": "Adrenaline Rush"
+            }
+          ]
+        },
+        {
+          "level_range": "21-30",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Flash Grenade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Instant Reload"
+            }
+          ]
+        }
+      ],
+      "required_level": 1,
+      "passives": [],
+      "url": "https://mobalytics.gg/poe-2/builds/mercenary-leveling-build"
+    },
+    {
+      "build_name": "Lightning Build Mercenary Leveling Build Guide FAST 1-70",
+      "class": "Mercenary",
+      "version": "0.3",
+      "reputation": 144,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-70",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Galvanic Shock",
+              "level": 1
+            },
+            {
+              "type": "Skill",
+              "name": "Shockburst Rounds",
+              "level": 20
+            },
+            {
+              "type": "Skill",
+              "name": "Voltaic Mark",
+              "level": 40
+            },
+            {
+              "type": "Skill",
+              "name": "Plasma Blast",
+              "level": 60
+            }
+          ]
+        }
+      ],
+      "passives": [
+        "Resolute Technique"
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/mercenary-leveling-lightning-mordarim"
+    }
+  ],
+  "Sorceress": [
+    {
+      "build_name": "Ice Nova Snap Stormweaver Build Guide",
+      "class": "Sorceress",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-3",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Spark"
+            },
+            {
+              "type": "Skill",
+              "name": "Flame Wall"
+            },
+            {
+              "type": "Skill",
+              "name": "Frost Bomb"
+            }
+          ]
+        },
+        {
+          "level_range": "3-",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Ice Nova"
+            }
+          ],
+          "passives": [
+            "Climate Change"
+          ]
+        },
+        {
+          "level_range": "3-",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Snap"
+            }
+          ]
+        }
+      ],
+      "url": "https://maxroll.gg/poe2/build-guides/cold-snap-frostbolt-stormweaver-leveling-guide"
+    },
+    {
+      "build_name": "Fireball Stormweaver Leveling Guide",
+      "class": "Sorceress",
+      "version": "0.1",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-2",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Spark"
+            }
+          ]
+        },
+        {
+          "level_range": "3-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Flame Wall"
+            }
+          ]
+        },
+        {
+          "level_range": "11-20",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Orb of Storms"
+            }
+          ]
+        },
+        {
+          "level_range": "Act 3 or Act 2 end",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Fireball"
+            },
+            {
+              "type": "Passive",
+              "name": "Scouring Winds"
+            }
+          ]
+        },
+        {
+          "level_range": "Act 3+",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Frost Bomb"
+            },
+            {
+              "type": "Passive",
+              "name": "Constant Gale"
+            }
+          ]
+        }
+      ],
+      "passives": [
+        "Scouring Winds",
+        "Constant Gale"
+      ],
+      "url": "https://maxroll.gg/poe2/build-guides/fireball-stormweaver-leveling-guide"
+    },
+    {
+      "build_name": "Sorceress Stormweaver",
+      "class": "Sorceress",
+      "version": "0.3",
+      "reputation": 26000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-??",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Stormweaver"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds"
+    },
+    {
+      "build_name": "Sorceress Stormweaver 0.3 TTE",
+      "class": "Sorceress",
+      "version": "0.3",
+      "reputation": 26000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Stormweaver"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/sorceress-builds"
+    },
+    {
+      "build_name": "STORMWEAVER SORC Leaguestart Leveling",
+      "class": "Sorceress",
+      "version": "0.3",
+      "reputation": 25000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Arc"
+            }
+          ]
+        },
+        {
+          "level_range": "11-20",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Flame Wall"
+            },
+            {
+              "type": "Passive",
+              "name": "Echoing Flames"
+            }
+          ]
+        },
+        {
+          "level_range": "21-30",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Firestorm"
+            }
+          ]
+        },
+        {
+          "level_range": "31-40",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Orb of Storms"
+            }
+          ]
+        },
+        {
+          "level_range": "41-50",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Spark"
+            }
+          ]
+        }
+      ],
+      "required_level": 1,
+      "passives": [],
+      "url": "https://mobalytics.gg/poe-2/builds/animeprincess-stormweaver-sorc-league-starter"
+    },
+    {
+      "build_name": "Fubgun's Lightning Arrow Deadeye leveling Guide",
+      "class": "Sorceress",
+      "version": "0.3",
+      "reputation": 8100,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Arrow"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/starter-builds"
+    },
+    {
+      "build_name": "Spark Archmage Leveling Guide by Asmodeus",
+      "class": "Sorceress",
+      "version": "0.1",
+      "reputation": 953,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Spark",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "level_range": "11-30",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Flame Wall",
+              "level": 2
+            },
+            {
+              "type": "Passive",
+              "name": "Pure Power"
+            },
+            {
+              "type": "Passive",
+              "name": "Arcane Intensity"
+            }
+          ]
+        },
+        {
+          "level_range": "31-60",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Orb of Storms",
+              "level": 3
+            },
+            {
+              "type": "Passive",
+              "name": "Branching Bolts"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/asmodeus-leveling-archemage"
+    },
+    {
+      "build_name": "Sorceress Stormweaver Starter +2",
+      "class": "Sorceress",
+      "version": "0.3",
+      "reputation": 779,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Nome não especificado"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/sorceress-starter-builds"
+    }
+  ],
+  "Witch": [
+    {
+      "build_name": "Minion Army Infernalist Leveling Guide",
+      "class": "Witch",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Unearth",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Skeletal Sniper"
+            },
+            {
+              "type": "Support",
+              "name": "Multishot I"
+            },
+            {
+              "type": "Skill",
+              "name": "Flame Wall",
+              "level": 1
+            },
+            {
+              "type": "Support",
+              "name": "Fire Attunement"
+            }
+          ]
+        },
+        {
+          "level_range": "10-13",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Raging Spirits"
+            }
+          ]
+        },
+        {
+          "level_range": ">13",
+          "actions": [
+            {
+              "type": "Support",
+              "name": "Last Gasp"
+            }
+          ]
+        }
+      ],
+      "passives": [
+        "Skeletal Sniper",
+        "Raging Spirits"
+      ],
+      "url": "https://maxroll.gg/poe2/build-guides/minion-army-infernalist-leveling-guide"
+    },
+    {
+      "build_name": "Armageddon Brand Cremation Witch Leveling Build",
+      "class": "Witch",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Armageddon Brand"
+            }
+          ]
+        },
+        {
+          "level_range": "2-6",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Goat's Horn"
+            }
+          ]
+        },
+        {
+          "level_range": "10-24",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Armageddon Brand",
+              "level": 24
+            },
+            {
+              "type": "Passive",
+              "name": "Flat Fire Damage to Spells"
+            }
+          ]
+        },
+        {
+          "level_range": "24-",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Armageddon Brand",
+              "passives": [
+                "Cruelty",
+                "Elemental Focus"
+              ]
+            }
+          ]
+        }
+      ],
+      "url": "https://maxroll.gg/poe/build-guides/witch-leveling-build-guide"
+    },
+    {
+      "build_name": "Grenade Mercenary Leveling Guide – Witchhunter",
+      "class": "Witch",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Fragmentation Rounds",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Permafrost Bolts"
+            }
+          ]
+        },
+        {
+          "level_range": "10-20",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Explosive Grenade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Permafrost Bolts"
+            }
+          ]
+        },
+        {
+          "level_range": "20-30",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Explosive Grenade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Permafrost Bolts"
+            }
+          ]
+        },
+        {
+          "level_range": "30-40",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Flash Grenade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Herald of Ash"
+            }
+          ]
+        },
+        {
+          "level_range": "40-50",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Explosive Shot",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Wind Dancer"
+            }
+          ]
+        },
+        {
+          "level_range": "50-60",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Voltaic Grenade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Wind Dancer"
+            }
+          ]
+        },
+        {
+          "level_range": "60-70",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Oil Grenade",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Wind Dancer"
+            }
+          ]
+        }
+      ],
+      "url": "https://maxroll.gg/poe2/build-guides/grenade-mercenary-leveling-guide"
+    },
+    {
+      "build_name": "Ignatius' Comprehensive Hollow Palm Guide",
+      "class": "Witch",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": []
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds"
+    },
+    {
+      "build_name": "Best Leveling Uniques for Witch",
+      "class": "Witch",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": []
+        }
+      ],
+      "url": "https://maxroll.gg/poe2/meta/the-best-leveling-uniques"
+    },
+    {
+      "build_name": "Witch Infernalist Kripparrian",
+      "class": "Witch",
+      "version": "0.3",
+      "reputation": 8300,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Infernal Cry"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/witch-starter-builds"
+    },
+    {
+      "build_name": "0.3 TTE Witch Blood Mage",
+      "class": "Witch",
+      "version": "0.3",
+      "reputation": 744,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-Full Leveling",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Arc"
+            },
+            {
+              "type": "Passive",
+              "name": "Blood Mage"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/witch-builds"
+    },
+    {
+      "build_name": "Contagion Witch - Optimized Leveling Guide",
+      "class": "Witch",
+      "version": "0.3",
+      "reputation": 86,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Chaos Bolt",
+              "level": 1
+            },
+            {
+              "type": "Skill",
+              "name": "Contagion"
+            }
+          ]
+        },
+        {
+          "level_range": "11-20",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Unearth",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Resolute Technique"
+            }
+          ]
+        },
+        {
+          "level_range": "21-30",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Essence Drain",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Precision"
+            }
+          ]
+        },
+        {
+          "level_range": "31-40",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Withering Presence",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Eldritch Battery"
+            }
+          ]
+        },
+        {
+          "level_range": "41-50",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Contagion",
+              "level": 2
+            },
+            {
+              "type": "Passive",
+              "name": "Eldritch Overcharge"
+            }
+          ]
+        },
+        {
+          "level_range": "51-60",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Chaos Bolt",
+              "level": 2
+            },
+            {
+              "type": "Passive",
+              "name": "Eldritch Invasion"
+            }
+          ]
+        }
+      ],
+      "required_level": 1,
+      "passives": [
+        "Resolute Technique",
+        "Precision",
+        "Eldritch Battery",
+        "Eldritch Overcharge",
+        "Eldritch Invasion"
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/contagion-witch-optimized-leveling-guide"
+    }
+  ],
+  "Ranger": [
+    {
+      "build_name": "Fubgun's Lightning Arrow Deadeye leveling Guide",
+      "class": "Ranger",
+      "version": "0.3",
+      "reputation": 81000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-5",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Bow Shot",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "level_range": "6-14",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Arrow",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Gathering Winds"
+            }
+          ]
+        },
+        {
+          "level_range": "15-27",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Rod",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Point Blank"
+            }
+          ]
+        },
+        {
+          "level_range": "28-40",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Contagion",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Endless Munitions"
+            }
+          ]
+        },
+        {
+          "level_range": "40-60+",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Freezing Salvo",
+              "level": 1
+            }
+          ]
+        }
+      ],
+      "passives": [
+        "Gathering Winds",
+        "Point Blank",
+        "Endless Munitions"
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/fubgun-deadeye-leveling"
+    },
+    {
+      "build_name": "Mercenaries of Trarthus",
+      "class": "Ranger",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Galvanic Arrow",
+              "level": 1,
+              "passives": []
+            }
+          ]
+        },
+        {
+          "level_range": "1-18",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Hailrake",
+              "level": 4,
+              "passives": []
+            },
+            {
+              "type": "Support",
+              "name": "Mirage Archer"
+            },
+            {
+              "type": "Skill",
+              "name": "Shrapnel Ballista",
+              "level": 1,
+              "passives": []
+            },
+            {
+              "type": "Support",
+              "name": "Momentum"
+            },
+            {
+              "type": "Support",
+              "name": "Sniper's Mark"
+            },
+            {
+              "type": "Skill",
+              "name": "Dash",
+              "level": 8,
+              "passives": []
+            }
+          ]
+        },
+        {
+          "level_range": "10-24",
+          "actions": [
+            {
+              "type": "Support",
+              "name": "Burning Arrow"
+            },
+            {
+              "type": "Support",
+              "name": "Manaforged Arrows"
+            },
+            {
+              "type": "Skill",
+              "name": "Shrapnel Ballista",
+              "level": 1,
+              "passives": []
+            },
+            {
+              "type": "Support",
+              "name": "Arrow Nova"
+            }
+          ]
+        },
+        {
+          "level_range": "18-24",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Arrow",
+              "level": 12,
+              "passives": [
+                "Sniper's Mark"
+              ]
+            }
+          ]
+        },
+        {
+          "level_range": "24-38",
+          "actions": [
+            {
+              "type": "Support",
+              "name": "Storm Rain"
+            },
+            {
+              "type": "Support",
+              "name": "Blast Rain"
+            }
+          ]
+        },
+        {
+          "level_range": "38-100",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Returning Projectiles",
+              "level": 1,
+              "passives": []
+            }
+          ]
+        }
+      ],
+      "url": "https://maxroll.gg/poe/build-guides/ranger-leveling-build-guide"
+    },
+    {
+      "build_name": "Fubgun Deadeye Leveling Build",
+      "class": "Ranger",
+      "version": "0.1",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Arrow"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/fubgun-live-starter"
+    },
+    {
+      "build_name": "Gas Arrow Deadeye Leveling Guide",
+      "class": "Ranger",
+      "version": "0.1",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-22",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Arrow",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Resolute Technique"
+            }
+          ]
+        },
+        {
+          "level_range": "22-Full Leveling",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Gas Arrow",
+              "level": 1,
+              "passives": [
+                "Resolute Technique"
+              ]
+            }
+          ]
+        }
+      ],
+      "url": "https://maxroll.gg/poe2/build-guides/deadeye-gas-arrow-leveling-guide"
+    },
+    {
+      "build_name": "Lightning Arrow Deadeye Leveling Build",
+      "class": "Ranger",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-2",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Bow Shot"
+            },
+            {
+              "type": "Skill",
+              "name": "Lightning Arrow"
+            }
+          ]
+        },
+        {
+          "level_range": "3-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Rod"
+            },
+            {
+              "type": "Passive",
+              "name": "Catalysis"
+            }
+          ]
+        },
+        {
+          "level_range": "11-20",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Contagion"
+            },
+            {
+              "type": "Passive",
+              "name": "Maiming Strike"
+            }
+          ]
+        },
+        {
+          "level_range": "21-30",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Elemental Armament I"
+            },
+            {
+              "type": "Passive",
+              "name": "Escape Velocity"
+            }
+          ]
+        },
+        {
+          "level_range": "31-40",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Acceleration"
+            }
+          ]
+        }
+      ],
+      "url": "https://maxroll.gg/poe2/build-guides/lightning-arrow-deadeye-leveling-build-guide"
+    },
+    {
+      "build_name": "Best Leveling Uniques for Ranger",
+      "class": "Ranger",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Wanderlust"
+            }
+          ]
+        },
+        {
+          "level_range": "8-",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Surefooted Sigil"
+            }
+          ]
+        },
+        {
+          "level_range": "33-",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Bushwhack"
+            }
+          ]
+        }
+      ],
+      "passives": [],
+      "url": "https://maxroll.gg/poe2/meta/the-best-leveling-uniques"
+    },
+    {
+      "build_name": "Ignatius' Comprehensive Hollow Palm Guide",
+      "class": "Ranger",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": []
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds"
+    },
+    {
+      "build_name": "0.3 TTE Ranger Deadeye",
+      "class": "Ranger",
+      "version": "0.3",
+      "reputation": 2900,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Arrow"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/ranger-starter-builds"
+    },
+    {
+      "build_name": "ICY SHOT Deadeye Leveling Builds",
+      "class": "Ranger",
+      "version": "0.3",
+      "reputation": 136,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Arrow"
+            },
+            {
+              "type": "Skill",
+              "name": "Freezing Salvo"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/0-3-lightning-speed-deadeye-leveling-marty"
+    }
+  ],
+  "Huntress": [
+    {
+      "build_name": "Fubgun's Lightning Arrow Deadeye leveling Guide",
+      "class": "Huntress",
+      "version": "0.3",
+      "reputation": 81000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-5",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Bow Shot",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "level_range": "6-14",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Arrow",
+              "level": 1
+            },
+            {
+              "type": "Skill",
+              "name": "Bow Shot",
+              "level": 2
+            }
+          ]
+        },
+        {
+          "level_range": "15-27",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Rod",
+              "level": 1
+            },
+            {
+              "type": "Skill",
+              "name": "Contagion",
+              "level": 1
+            },
+            {
+              "type": "Skill",
+              "name": "Lightning Arrow",
+              "level": 2
+            },
+            {
+              "type": "Skill",
+              "name": "Bow Shot",
+              "level": 3
+            }
+          ]
+        },
+        {
+          "level_range": "28-40",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Arrow",
+              "level": 3
+            },
+            {
+              "type": "Skill",
+              "name": "Bow Shot",
+              "level": 4
+            }
+          ],
+          "passives": [
+            "Gathering winds"
+          ]
+        },
+        {
+          "level_range": "40-60+",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Lightning Arrow",
+              "level": 4
+            },
+            {
+              "type": "Skill",
+              "name": "Bow Shot",
+              "level": 5
+            }
+          ],
+          "passives": [
+            "Point blank",
+            "Endless munitions"
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/fubgun-deadeye-leveling"
+    },
+    {
+      "build_name": "Spear Huntress Leveling Guide",
+      "class": "Huntress",
+      "version": "0.3",
+      "reputation": 50000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Spear Stab",
+              "level": 1
+            },
+            {
+              "type": "Skill",
+              "name": "Explosive Spear"
+            },
+            {
+              "type": "Skill",
+              "name": "Whirling Slash"
+            }
+          ]
+        },
+        {
+          "level_range": "10-20",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Rake",
+              "level": 3
+            },
+            {
+              "type": "Skill",
+              "name": "Spearfield"
+            }
+          ]
+        }
+      ],
+      "url": "https://maxroll.gg/poe2/build-guides/spear-huntress-leveling-guide"
+    },
+    {
+      "build_name": "ds_Lily Javazon Leveling (Live Starter)",
+      "class": "Huntress",
+      "version": "0.2",
+      "reputation": 13000,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-15",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Rake",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Predatory Instinct"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/huntress-leveling-build"
+    },
+    {
+      "build_name": "0.3 TTE Starter End Game +5",
+      "class": "Huntress",
+      "version": "0.3",
+      "reputation": 861,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Unknown"
+            },
+            {
+              "type": "Skill",
+              "name": "Unknown"
+            },
+            {
+              "type": "Skill",
+              "name": "Unknown"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/huntress-starter-builds"
+    },
+    {
+      "build_name": "Ignatius' Comprehensive Hollow Palm Guide",
+      "class": "Huntress",
+      "version": "0.3",
+      "reputation": 861,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Hollow Palm"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/huntress-builds"
+    },
+    {
+      "build_name": "Pohx Hybrid Huntress Leveling",
+      "class": "Huntress",
+      "version": "0.3",
+      "reputation": 288,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-10",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Explosive Spear",
+              "level": 1
+            },
+            {
+              "type": "Skill",
+              "name": "Fangs of Frost"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/pohx-ice-huntress-leveling"
+    },
+    {
+      "build_name": "Optimized Huntress Leveling Guide by Asmodeus",
+      "class": "Huntress",
+      "version": "0.2",
+      "reputation": 111,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-13",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Explosive Spear",
+              "level": 1
+            },
+            {
+              "type": "Skill",
+              "name": "Disengage"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/optimized-leveling-huntress-asmodeus"
+    },
+    {
+      "build_name": "Lazy's Hollow Palm Speed Alt Leveling | Huntress Variant",
+      "class": "Huntress",
+      "version": "0.3",
+      "reputation": 105,
+      "skill_tree_leveling": [
+        {
+          "level_range": "1-15",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Pillar of the Caged God",
+              "level": 1
+            },
+            {
+              "type": "Passive",
+              "name": "Hollow Palm Technique"
+            }
+          ]
+        },
+        {
+          "level_range": "15-65",
+          "actions": [
+            {
+              "type": "Skill",
+              "name": "Falling Thunder",
+              "level": 20
+            },
+            {
+              "type": "Skill",
+              "name": "Killing Palm",
+              "level": 20
+            },
+            {
+              "type": "Passive",
+              "name": "Unfurled Finger"
+            }
+          ]
+        }
+      ],
+      "url": "https://mobalytics.gg/poe-2/builds/lazyexile-huntress-alt-leveling"
+    }
+  ],
+  "Druid": [],
+  "Duelist": [],
+  "Marauder": [],
+  "Shadow": [],
+  "Templar": []
+}

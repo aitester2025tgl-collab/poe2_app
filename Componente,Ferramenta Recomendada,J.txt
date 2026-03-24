@@ -1,0 +1,5 @@
+Componente,Ferramenta Recomendada,Justificativa
+LLM (Modelo Base),Mistral 7B ou Qwen3/2,"Modelos de código aberto com alto desempenho em seguir instruções e extrair dados. O Mistral é frequentemente referenciado como um modelo de 7B (pequeno, ideal para uso local) com excelente raciocínio."
+Plataforma de Execução,Ollama,"Permite executar LLMs de código aberto (como Mistral) localmente com uma interface simples CLI/API. CRUCIALMENTE, o Ollama suporta a passagem de um response_schema para forçar a saída estrita em JSON."
+Definição do Schema,Pydantic (Python),A biblioteca padrão em Python para definir a estrutura de dados (o seu JSON). O Pydantic gera o JSON Schema necessário que o Ollama usará para restringir o modelo.
+Orquestração,LangChain ou LlamaIndex,Estruturas Python que ajudam a orquestrar a busca de dados (Retrieval) e a sua alimentação ao LLM (Generation) – o que é a essência do seu projeto RAG.

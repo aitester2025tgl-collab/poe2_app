@@ -1,0 +1,32 @@
+{
+  "build_name": "Ice Strike Invoker Monk Build",
+  "class": "Warrior",
+  "version": "0.3",
+  "reputation": 50000,
+  "skill_tree_leveling": [
+    {
+      "level_range": "1-Act 1",
+      "actions": [
+        { "type": "Skill", "name": "Glacial Cascade", "level": 1 },
+        { "type": "Skill", "name": "Frost Bomb", "level": 1 },
+        { "type": "Passive", "name": "Combat Frenzy" }
+      ]
+    },
+    {
+      "level_range": "Act 2-Act 3",
+      "actions": [
+        { "type": "Skill", "name": "Ice Strike", "level": 1 },
+        { "type": "Passive", "name": "Resonance" }
+      ]
+    },
+    {
+      "level_range": "Act 3+",
+      "actions": [
+        { "type": "Skill", "name": "Shattering Palm", "level": 1 },
+        { "type": "Passive", "name": "Herald of Ice" }
+      ]
+    }
+  ],
+  "required_level": 1,
+  "passives": []
+}

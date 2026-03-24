@@ -1,0 +1,14 @@
+{
+  "build_name": "Woolie's FIREBRINGER",
+  "class": "Warrior",
+  "version": "0.3",
+  "reputation": 1400,
+  "skill_tree_leveling": [
+    {
+      "level_range": "1-10",
+      "actions": [
+        { "type": "Skill", "name": "Firebrand" }
+      ]
+    }
+  ]
+}

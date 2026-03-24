@@ -1,0 +1,15 @@
+{
+  "build_name": "One-Shot Hollow Palm Monk",
+  "class": "Warrior",
+  "version": "0.3",
+  "reputation": 50000,
+  "skill_tree_leveling": [
+    {
+      "level_range": "1-10",
+      "actions": [
+        { "type": "Skill", "name": "Ice Strike" },
+        { "type": "Passive", "name": "Hollow Palm Technique" }
+      ]
+    }
+  ]
+}

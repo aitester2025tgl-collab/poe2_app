@@ -1,0 +1,102 @@
+Purpose of the Project
+
+We want a Path of Exile 2 build assistant bot that:
+
+Lets a user select a class.
+
+Provides the best leveling builds for that class.
+
+Shows:
+
+Skills used at each level range (or ACT).
+
+Passive nodes used per skill, but only if they change compared to the previous level range.
+
+Reputation/Popularity of the build (e.g., number of views).
+
+Only shows builds that meet our validity rules:
+
+At least 5 skills by level 40.
+
+At least 1 skill at level 1.
+
+By level 5, more than 1 skill.
+
+Skills displayed cannot exceed the current level requirement.
+
+Uses existing builds stored in a JSON file as a local database.
+
+Can update builds online (once per day or on-demand) using free-tier Google Gemini / search queries.
+
+Ensures the bot itself does not make repeated online queries when users interact with it.
+
+Modules and Responsibilities
+1. poe2_assistente.py (Assistant)
+
+Reads builds from JSON.
+
+Validates them according to the rules.
+
+Returns the build for a specific class.
+
+Does not fetch anything online.
+
+2. poe2_parser.py (Parser / Formatter)
+
+Loads and saves JSON builds.
+
+Formats builds for Telegram messages.
+
+Contains helper functions like is_build_valid.
+
+Knows the list of Path of Exile 2 classes.
+
+3. update_builds_online.py (Updater)
+
+Responsible for fetching builds online from Gemini free-tier or other sources.
+
+Writes builds into the JSON file.
+
+Can:
+
+Skip fetch if already fetched in the last 24 hours (daily update).
+
+Force fetch when run manually.
+
+Logs errors and falls back to existing JSON data if online fetch fails.
+
+4. bot.py (Telegram Bot)
+
+Handles user interaction.
+
+Responds to commands like /start or /build Ranger.
+
+Uses poe2_assistente to get the build.
+
+Formats the build with poe2_parser.
+
+Sends it to Telegram.
+
+Workflow
+
+Bot starts → checks if builds need to be updated (daily).
+
+If yes → runs update_builds_online.py to fetch new builds.
+
+User interacts with the bot → requests a build for a class.
+
+Bot asks poe2_assistente.py for that build.
+
+Assistant reads the JSON, validates the build, and returns it.
+
+Bot formats the build nicely using poe2_parser.py → sends to Telegram.
+
+This setup ensures:
+
+Minimal API calls (respects free-tier limits).
+
+Consistent valid data.
+
+Clear separation of concerns between modules.
+
+Easy to test online fetches independently before showing to users.

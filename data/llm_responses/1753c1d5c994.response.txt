@@ -1,0 +1,77 @@
+{
+  "build_name": "Lightning Arrow Ranger Leveling Build",
+  "class": "Warrior",
+  "version": "0.1",
+  "reputation": 50000,
+  "skill_tree_leveling": [
+    {
+      "level_range": "1-10",
+      "actions": [
+        { "type": "Skill", "name": "Galvanic Arrow", "level": 1 }
+      ]
+    },
+    {
+      "level_range": "11-20",
+      "actions": [
+        { "type": "Skill", "name": "Hailrake", "level": 4 },
+        { "type": "Passive", "name": "Mirage Archer" }
+      ]
+    },
+    {
+      "level_range": "21-30",
+      "actions": [
+        { "type": "Skill", "name": "Shrapnel Ballista", "level": 1 },
+        { "type": "Passive", "name": "Momentum" }
+      ]
+    },
+    {
+      "level_range": "31-40",
+      "actions": [
+        { "type": "Skill", "name": "Sniper's Mark", "level": 1 },
+        { "type": "Passive", "name": "Dash" }
+      ]
+    },
+    {
+      "level_range": "41-50",
+      "actions": [
+        { "type": "Skill", "name": "Burning Arrow", "level": 8 },
+        { "type": "Passive", "name": "Manaforged Arrows" }
+      ]
+    },
+    {
+      "level_range": "51-60",
+      "actions": [
+        { "type": "Skill", "name": "Frostblink", "level": 8 },
+        { "type": "Passive", "name": "Shield Charge" }
+      ]
+    },
+    {
+      "level_range": "61-70",
+      "actions": [
+        { "type": "Skill", "name": "Lightning Arrow", "level": 12, "passives": ["Mirage Archer", "LMP"] }
+      ]
+    },
+    {
+      "level_range": "71-80",
+      "actions": [
+        { "type": "Skill", "name": "Burning Arrow", "level": 12, "passives": ["Manaforged Arrows", "Galvanic Arrow"] }
+      ]
+    },
+    {
+      "level_range": "81-90",
+      "actions": [
+        { "type": "Skill", "name": "Shrapnel Ballista", "level": 1 },
+        { "type": "Passive", "name": "Arrow Nova" }
+      ]
+    },
+    {
+      "level_range": "91-100",
+      "actions": [
+        { "type": "Skill", "name": "Sniper's Mark", "level": 1 },
+        { "type": "Passive", "name": "Blink Arrow" }
+      ]
+    }
+  ],
+  "required_level": 1,
+  "passives": []
+}

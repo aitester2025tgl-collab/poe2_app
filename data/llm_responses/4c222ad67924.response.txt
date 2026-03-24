@@ -1,0 +1,39 @@
+{
+  "build_name": "Fubgun's Lightning Arrow Deadeye leveling Guide",
+  "class": "Warrior",
+  "version": "0.3",
+  "reputation": 50000,
+  "skill_tree_leveling": [
+    {
+      "level_range": "1-5",
+      "actions": [
+        { "type": "Skill", "name": "Bow Shot", "level": 1 }
+      ]
+    },
+    {
+      "level_range": "6-14",
+      "actions": [
+        { "type": "Skill", "name": "Lightning Arrow", "level": 1 },
+        { "type": "Passive", "name": "Gathering winds" }
+      ]
+    },
+    {
+      "level_range": "15-27",
+      "actions": [
+        { "type": "Skill", "name": "Lightning Rod", "level": 1 },
+        { "type": "Passive", "name": "Point blank" }
+      ]
+    },
+    {
+      "level_range": "28-40",
+      "actions": [
+        { "type": "Skill", "name": "Contagion", "level": 1 },
+        { "type": "Passive", "name": "Endless munitions" }
+      ]
+    },
+    {
+      "level_range": "40-60+",
+      "actions": []
+    }
+  ]
+}

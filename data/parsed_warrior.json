@@ -1,0 +1,34 @@
+[
+  {
+    "build_name": "Minion Army Infernalist Leveling Guide The Third Edict - Path of Exile 2",
+    "class": "",
+    "version": "0.2",
+    "reputation": 50000,
+    "skill_tree_leveling": [
+      {
+        "level_range": "1-10",
+        "actions": [
+          {
+            "type": "Skill",
+            "name": "Elemental",
+            "level": 7,
+            "passives": []
+          },
+          {
+            "type": "Skill",
+            "name": "The third Skill Gem you cut is Contagion",
+            "level": 0,
+            "passives": []
+          },
+          {
+            "type": "Skill",
+            "name": "It is used to deal AoE Chaos damage that c",
+            "level": 0,
+            "passives": []
+          }
+        ]
+      }
+    ],
+    "url": "https://maxroll.gg/poe2/build-guides/minion-army-infernalist-leveling-guide"
+  }
+]

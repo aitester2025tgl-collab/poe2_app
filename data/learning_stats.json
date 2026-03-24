@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-10-18T19:29:48.511820",
+  "total_builds": 58,
+  "total_skills": 85,
+  "total_passives": 18,
+  "new_skills_learned": 1,
+  "new_passives_learned": 0,
+  "top_10_skills": [
+    [
+      "Lightning Arrow",
+      12
+    ],
+    [
+      "Bow Shot",
+      7
+    ],
+    [
+      "Hollow Palm",
+      6
+    ],
+    [
+      "Explosive Grenade",
+      5
+    ],
+    [
+      "Flame Wall",
+      5
+    ],
+    [
+      "Contagion",
+      5
+    ],
+    [
+      "Boneshatter",
+      4
+    ],
+    [
+      "Earthquake",
+      4
+    ],
+    [
+      "Infernal Cry",
+      4
+    ],
+    [
+      "Spark",
+      4
+    ]
+  ]
+}

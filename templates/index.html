@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>POE2 Web Editor - Seleção</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; }
+        .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1 { color: #333; }
+        select, button { padding: 10px; margin-top: 10px; border-radius: 4px; border: 1px solid #ccc; font-size: 16px; }
+        button { background-color: #5cb85c; color: white; cursor: pointer; }
+        button:hover { background-color: #4cae4c; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Editor de Builds POE2</h1>
+        <p>Selecione a Classe para visualizar a build:</p>
+        <form method="POST">
+            <select name="class_selector" required>
+                {% for cls in classes %}
+                    <option value="{{ cls }}">{{ cls }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">Visualizar Build</button>
+        </form>
+    </div>
+</body>
+</html>

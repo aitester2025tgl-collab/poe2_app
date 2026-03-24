@@ -1,0 +1,12 @@
+{
+  "build_name": "Spearfield | Massive AOE & Boss Deleter - All Content End Game Guide",
+  "class": "Warrior",
+  "version": "0.3",
+  "reputation": 50000,
+  "skill_tree_leveling": [
+    {
+      "level_range": "1-10",
+      "actions": []
+    }
+  ]
+}

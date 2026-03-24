@@ -1,0 +1,73 @@
+💡 O Nosso Projeto: Extrair o Conhecimento do Jogo Automaticamente
+
+O Problema
+
+Imagine que queremos acompanhar centenas de guias e estratégias de jogos online (chamadas "Builds"). Estes guias estão espalhados por muitos sites, escritos em texto longo e complexo.
+
+Objetivo do Nosso Sistema: Criar uma "Equipa de Assistentes Inteligentes" que leia todos esses guias e os organize numa folha de cálculo perfeitamente estruturada, sem intervenção humana.
+
+👨‍💻 A Equipa de Assistentes Inteligentes
+
+O nosso código funciona como uma equipa de especialistas, onde cada um tem uma tarefa muito simples.
+
+1. O Pesquisador (O poe2_fetcher.py)
+
+Função: Encontrar as melhores fontes de informação.
+
+O que faz: Vai à Internet e usa um motor de busca inteligente para encontrar os guias de "builds" mais populares e com melhor reputação.
+
+"Encontrámos os 10 guias mais votados para a classe 'Guerreiro'!"
+
+2. O Limpador e Preparador (O llm_extractor.py - Busca)
+
+Função: Preparar o artigo para análise.
+
+O que faz: Quando o Pesquisador encontra um artigo, o Limpador copia apenas o texto principal, removendo publicidade, comentários, menus de navegação e todo o "lixo" que distrai.
+
+"O artigo está limpo, só tem a informação essencial."
+
+3. O Dicionário Oficial (O poe2_data_ref.py e 'Learners')
+
+Função: Garantir que todos falam a mesma língua.
+
+O que faz: É um ficheiro de referência que contém todos os nomes de Habilidades e Passivas conhecidos e corretos do jogo. Isto é crucial para que o nosso Analista de IA não invente ou confunda nomes.
+
+"O dicionário diz que 'Rolling Slam' é um nome real, mas 'Super Ataque' não é."
+
+4. O Analista de IA (O llm_extractor.py - IA)
+
+Função: A parte mágica do sistema.
+
+O que faz: O Limpador passa-lhe o texto. O Analista, que é um modelo de Inteligência Artificial, lê o texto corrido e o traduz para o formato de formulário. Ele sabe extrair:
+
+O Nome da Build
+
+A Classe
+
+Qual Habilidade usar em que Nível
+
+Quais Passivas adquirir nesse passo
+
+"Tradução concluída! O Analista preencheu o formulário de forma perfeita e organizada."
+
+5. O Controlo de Qualidade (O poe2_parser.py)
+
+Função: Verificar a confiança da IA.
+
+O que faz: Pega no formulário preenchido pelo Analista e compara cada nome (Habilidade, Passiva) com o Dicionário Oficial. Se a IA tiver inventado muitas palavras ou se a "build" tiver poucas etapas, o Controlo de Qualidade rejeita o resultado.
+
+"95% das habilidades desta build estão no Dicionário Oficial. Aprovado!"
+
+💾 O Resultado Final
+
+O sistema pega no artigo longo e desorganizado da Internet, processa-o através desta equipa, e armazena apenas a informação validada num único Arquivo Central (poe2_builds.json).
+
+Este arquivo é a nossa folha de cálculo limpa, onde cada entrada é uma estratégia pronta a ser usada, analisada ou visualizada.
+
+Benefício: Em vez de horas a ler e resumir guias, o sistema faz o trabalho de forma instantânea, fiável e padronizada.
+
+Conclusão
+
+O nosso sistema transforma o ruído da Internet em conhecimento estruturado, utilizando a Inteligência Artificial como tradutor e o Controlo de Qualidade (Dicionário Oficial) para garantir a máxima fiabilidade. É um processo automatizado, robusto e que se auto-aperfeiçoa com o tempo.
+
+Espero que esta analogia com a "Equipa de Assistentes Inteligentes" ajude a simplificar a explicação para a sua apresentação! Se precisar de mais alguma secção ou de ideias para slides, diga-me.

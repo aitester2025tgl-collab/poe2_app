@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Visualizar Build: {{ class_name }}</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; }
+        .container { max-width: 900px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1 { color: #333; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        /* Estilo para Abas (para ficarem maiores) */
+        .tabs { overflow: hidden; border: 1px solid #ccc; background-color: #f1f1f1; }
+        .tabs button { background-color: inherit; float: left; border: none; outline: none; cursor: pointer; 
+                       padding: 16px 20px; /* Aumentado o padding para serem maiores */
+                       transition: 0.3s; font-size: 18px; font-weight: bold; } /* Fonte maior */
+        .tabs button:hover { background-color: #ddd; }
+        .tabs button.active { background-color: #ccc; }
+        .tabcontent { display: none; padding: 20px 0; border: 1px solid #ccc; border-top: none; }
+        
+        /* Estilo para a Tabela de Skills */
+        table { width: 100%; border-collapse: collapse; margin-top: 15px; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #e2e6ea; font-size: 15px; } /* Fonte dos cabeçalhos ligeiramente maior */
+        .reputation { font-size: 1.2em; font-weight: bold; margin-bottom: 20px; color: #007bff; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>👁️ Build de Leveling: {{ class_name }}</h1>
+        <p><a href="{{ url_for('index') }}">← Voltar à Seleção de Classe</a></p>
+
+        <div class="reputation">Popularidade da Build (Reputação): {{ build.reputation }}</div>
+            
+        <div class="tabs">
+            {% for range_str in level_ranges %}
+                <button class="tablinks" onclick="openRange(event, 'range-{{ range_str }}')" id="defaultOpen_{{ loop.index0 }}">{{ range_str }}</button>
+            {% endfor %}
+        </div>
+
+        {% for range_str in level_ranges %}
+        <div id="range-{{ range_str }}" class="tabcontent">
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th>Skill Name</th>
+                        <th style="width: 150px; text-align: center;">Level Mínimo</th>
+                        <th>Passivas Adquiridas</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for skill in build.levels.get(range_str, []) %}
+                    <tr>
+                        <td>{{ skill.skill_name }}</td>
+                        <td style="text-align: center;">{{ skill.required_level }}</td>
+                        <td>
+                            {{ skill.passives_acquired|join(', ') }}
+                        </td>
+                    </tr>
+                    {# SUBSTITUÍMOS O {% empty %} por {% else %} para compatibilidade #}
+                    {% else %}
+                    <tr>
+                        <td colspan="3">Nenhuma skill de leveling recomendada para o intervalo de níveis **{{ range_str }}**.</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% endfor %}
+    </div>
+
+    <script>
+        function openRange(evt, rangeName) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablinks");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
+            }
+            document.getElementById(rangeName).style.display = "block";
+            evt.currentTarget.className += " active";
+        }
+        
+        // Abre o primeiro separador por defeito
+        // Usa o ID gerado (index 0)
+        document.getElementById("defaultOpen_0").click();
+    </script>
+</body>
+</html>

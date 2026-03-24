@@ -1,0 +1,15 @@
+{
+  "build_name": "Fubgun Deadeye Leveling",
+  "class": "Warrior",
+  "version": "0.1",
+  "reputation": 50000,
+  "skill_tree_leveling": [
+    {
+      "level_range": "1-10",
+      "actions": [
+        { "type": "Skill", "name": "Punch" },
+        { "type": "Skill", "name": "Lightning Arrow" }
+      ]
+    }
+  ]
+}

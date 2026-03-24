@@ -1,0 +1,50 @@
+{
+  "build_name": "Boneshatter Titan Build Guide",
+  "class": "Warrior",
+  "version": "0.3",
+  "reputation": 50000,
+  "skill_tree_leveling": [
+    {
+      "level_range": "1-10",
+      "actions": [
+        { "type": "Skill", "name": "Boneshatter" },
+        { "type": "Passive", "name": "Mysterious Lineage" }
+      ]
+    },
+    {
+      "level_range": "10-20",
+      "actions": [
+        { "type": "Skill", "name": "Leap Slam" },
+        { "type": "Passive", "name": "Stone Skin" }
+      ]
+    },
+    {
+      "level_range": "20-30",
+      "actions": [
+        { "type": "Skill", "name": "Perfect Strike" },
+        { "type": "Passive", "name": "Colossal Capacity" }
+      ]
+    },
+    {
+      "level_range": "30-40",
+      "actions": [
+        { "type": "Skill", "name": "Hammer of the Gods" },
+        { "type": "Passive", "name": "Earthbreaker" }
+      ]
+    },
+    {
+      "level_range": "40-50",
+      "actions": [
+        { "type": "Skill", "name": "Earthshatter" },
+        { "type": "Passive", "name": "Hulking Form" }
+      ]
+    },
+    {
+      "level_range": "50-60",
+      "actions": [
+        { "type": "Skill", "name": "Infernal Cry" },
+        { "type": "Passive", "name": "Crushing Impacts" }
+      ]
+    }
+  ]
+}

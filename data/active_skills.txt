@@ -1,0 +1,1328 @@
+Abiding Hex
+Acceleration
+Accuracy
+Accurate
+Acidic Concoction
+Acrimony
+Adhesive Grenades I
+Adhesive Grenades II
+Adhesive Grenades III
+Admixture
+Aftershock
+Aftershock I
+Aftershock II
+Aftershock III
+Aftershocks
+Aggravate
+Aggravating Bleeding
+Ahn's Citadel
+Ailith's Chimes
+Ailment
+Ailment Threshold
+Ailments
+Alchemist's Boon
+Alignment I
+Alignment II
+Alignment III
+Allied
+Allies
+Amanamu's Tithe
+Ambrosia
+Ambush
+Ammo Conservation I
+Ammo Conservation II
+Ammo Conservation III
+Ammunition
+Ancestral Aid
+Ancestral Boost
+Ancestral Call I
+Ancestral Call II
+Ancestral Call III
+Ancestral Cry
+Ancestral Spirits
+Ancestral Warrior Totem
+Ancestrally Boosted
+Arakaali's Lust
+Arbiter's Ignition
+Arc
+ArcFrostboltSnapEmber Fusillade
+Arcane Surge
+Archmage
+Arctic Armour
+Arjun's Medal
+Armageddon Brand
+Armour
+Armour Break
+Armour Break I
+Armour Break II
+Armour Break III
+Armour Breaker
+Armour Broken
+Armour Demolisher I
+Armour Demolisher II
+Armour Explosion
+Armour Piercing Rounds
+Arms Length
+Artillery Ballista
+Ascendancy Classes
+Astral Projection
+Atalui's Bloodletting
+Attack
+Attacking
+Attacks
+Attribute
+Attrition
+Atziri's Allure
+Aura
+Auras
+Auto Reload
+Axe Slash
+Ball Lightning
+Ball LightningFirestormComet
+Ballista
+Ballista Banner
+Banner
+Barbs I
+Barbs II
+Barbs III
+Barrage
+Barrageable
+Barrier Invocation
+Battershout
+Beast
+Behead I
+Behead II
+Berserk
+Berserk(14)Buff,Persistent
+Bidding I
+Bidding II
+Bidding III
+Bifurcate Critical Hit Chance
+Bind Spectre
+Biting Frost
+Blasphemy
+Bleed
+Bleed I
+Bleed II
+Bleed III
+Bleed IV
+Bleeding
+Bleeding Concoction
+Blind
+Blind I
+Blind II
+Blinded
+Blinding
+Blindside
+Blink
+Block
+Block Chance
+Blockable
+Blocked
+Blocked Hit
+Blocking
+Blood Boil
+Blood Hunt
+Blood Loss
+Bloodhound's Mark
+Bloodlust
+Bone Blast
+Bone Cage
+Bone Offering
+Bone Shrapnel
+Boneshatter
+Bonestorm
+Boundless Energy I
+Boundless Energy II
+Bounty I
+Bounty II
+Bow Shot
+Brambleslam
+Branching Fissures I
+Branching Fissures II
+Break
+Break Armour
+Break Endurance
+Break Posture
+Break enemy Armour
+Breaking
+Breaking Armour
+Brink I
+Brink II
+Broken Armour
+Broken Stance
+Brutality I
+Brutality II
+Brutality III
+Brutus' Brain
+Buckler
+Buff
+Buffs
+Burgeon I
+Burgeon II
+Burn
+Burning
+Burning Inscription
+Bursting Plague
+Bushwhack
+CC BY-NC-SA 3.0
+CN 简体中文
+Cadence
+Called Shots
+Caltrops
+Cannibalism I
+Cannibalism II
+Cast on Block
+Cast on Critical
+Cast on Dodge
+Cast on Elemental Ailment
+Cast on Freeze
+Cast on Ignite
+Cast on Minion Death
+Cast on Shock
+Category
+Catharsis
+Chain
+Chain I
+Chain II
+Chain III
+Chained
+Chaining
+Chains
+Chance to Freeze
+Channel
+Channelled
+Channelling
+Chaos
+Chaos Attunement
+Chaos Bolt
+Chaos Mastery
+Chaos Resistance
+Chaotic Freeze
+Charge
+Charge Profusion I
+Charge Profusion II
+Charge Regulation
+Charged Shots I
+Charged Shots II
+Charged Staff
+Charges
+Charm
+Charm Bounty
+Chill
+Chilled
+Chilled Ground
+Chilling
+Chills
+Clarity I
+Clarity II
+Clash
+Claw Stab
+Close Combat I
+Close Combat II
+Cluster Grenade
+Cold
+Cold Attunement
+Cold Exposure
+Cold Mastery
+Cold Penetration
+Cold Resistance
+Cold-Infused
+Combat Frenzy
+Combo
+Combo Finisher I
+Combo Finisher II
+Comet
+Command
+Commandable Minions
+Commandment
+Commiserate
+Companion
+Companion: {0}
+Companions
+Compressed Duration I
+Compressed Duration II
+Concentrated Area
+Concoct I
+Concoct II
+Condition
+Conditional
+Conductive Embrace
+Conductivity
+Connected
+Connected Support Gems
+Consecrate
+Consecrated Ground
+Considered Casting
+Consume
+Consumed
+Consumes
+Consuming
+Consumption
+Contagion
+Contribute
+Controlled Destruction
+Convalescence
+Cool Headed
+Cooldown Recovery I
+Cooldown Recovery II
+Cooldown Recovery Rate
+Cooldown Recovery Speed
+Cooldowns Recover
+Corpse
+Corpse Conservation
+Corpses
+Corrosion
+Corrupted Blood
+Corrupting Cry I
+Corrupting Cry II
+Crackling Barrier
+Crafting
+Crater
+Crazed Minions
+Crescendo I
+Crescendo II
+Crescendo III
+Critial Hit Chance
+Critical Hit
+Critical Hit Chance
+Critical Hits
+Critical Weakness
+Critically Hit
+Critically Hits
+Critically Hitting
+Crossbow
+Crossbow Shot
+Crushing Blows
+Crystal
+Crystalline Resistance
+Crystalline Shards
+Crystallised Immunities
+Crystals
+Cull
+Cull The Weak
+Culled
+Culling
+Culling Strike
+Culling Strike I
+Culling Strike II
+Culls
+Culmination I
+Culmination II
+Curse
+Curse's
+Cursed
+Cursed Ground
+Curses
+Cursing
+DE Deutsch
+Dagger Stab
+Damage Types
+Damaging Ailment
+Damaging Hits
+Danse Macabre
+Daresso's Passion
+Dark Effigy
+Dark Pact
+Dash
+Dauntless
+Daze
+Dazed
+Dazing Cry
+Dazzle
+Deadly Herald
+Deadly Poison I
+Deadly Poison II
+Deathmarch
+Debuff
+Debuffs
+Decaying Hex
+Decompose
+Deep Cuts I
+Deep Cuts II
+Deep Freeze
+Default Attack
+Default Attack Damage
+Default Attacks
+Defiance Banner
+Defy I
+Defy II
+Delayed Gratification
+Delayed Reaction
+Deliberation
+Demon Form
+Derange
+Desecrated Modifiers
+Despair
+Desperation
+Detonate
+Detonate Dead
+Detonated
+Detonates
+Detonating
+Detonating Arrow
+Detonating ArrowIce ShotRain of Arrows
+Detonation
+Detonation Time
+Detonator
+Devastate
+Dexterity
+Dialla's Desire
+Direstrike I
+Direstrike II
+Discipline
+Disclaimers
+Disengage
+Doedre's Undoing
+Double Barrel I
+Double Barrel II
+Double Barrel III
+Drain Ailments
+Dread Banner
+Durability
+Duration
+ES Spanish
+Earthquake
+Earthshatter
+Easy Target
+Efficiency I
+Efficiency II
+Einhar's Beastrite
+Electrocute
+Electrocuted
+Electrocuted.
+Electrocuting
+Electrocuting Arrow
+Electrocution
+Electrocution.
+Element
+Elemental
+Elemental Ailment
+Elemental Ailment Threshold
+Elemental Ailments
+Elemental Armament I
+Elemental Armament II
+Elemental Armament III
+Elemental Army
+Elemental Conflux
+Elemental Damage
+Elemental Discharge
+Elemental Expression
+Elemental Focus
+Elemental Ground Surfaces
+Elemental Hit Damage
+Elemental Infusion
+Elemental Invocation
+Elemental Resistances
+Elemental Storm
+Elemental Sundering
+Elemental SunderingWhirlwind Lance
+Elemental Surge
+Elemental Weakness
+Elemental ground surface
+Elements
+Ember Fusillade
+Embitter
+Emergency Reload
+Empower
+Empowered
+Empowering
+Empowerment
+Empowers
+Encase in Jade
+Encroaching Ground
+Endurance Charge
+Endurance Charges
+Enduring Impact I
+Enduring Impact II
+Energy
+Energy Barrier
+Energy Capacitor
+Energy Retention
+Energy Shield
+Enervating Nova
+Enervation
+Enfeeble
+Enraged Warcry I
+Enraged Warcry II
+Escalating Poison
+Escape Shot
+Esh's Radiance
+Essence Drain
+Essence Harvest
+Eternal Flame I
+Eternal Flame II
+Eternal Flame III
+Evade
+Evasion
+Evasion Rating
+Excise
+Excoriate
+Execrate
+Execute I
+Execute II
+Execute III
+Expanse
+Exploit Weakness
+Explosive Concoction
+Explosive Grenade
+Explosive Shot
+Explosive Spear
+Explosive Trap
+Exposure
+Exsanguinate
+Extraction
+Eye of Winter
+FR Français
+Falling Thunder
+Fangs of Frost
+Fear
+Feast of Flesh
+Feeding Frenzy I
+Feeding Frenzy II
+Ferocity
+Fiery
+Fiery Death
+Final Strike
+Fire
+Fire Attunement
+Fire Exposure
+Fire Infusion
+Fire Mastery
+Fire Penetration I
+Fire Penetration II
+Fire Resistance
+Fire Spell on Hit
+Fire-Infused
+Fireball
+Firebolt
+Firebrand
+Firestorm
+Firewall
+First Blood
+Fissure
+Fissures
+Fist of War I
+Fist of War II
+Fist of War III
+Flail Strike
+Flame Archon
+Flame Dash
+Flame Pillar
+Flame Wall
+Flameblast
+Flamepierce
+Flames of Chayula
+Flammability
+Flash Grenade
+Flask
+Flasks
+Flicker Strike
+Flicker StrikeGathering Storm
+Flow
+Fluke
+Focused Curse
+Font of Blood
+Font of Mana
+Font of Rage
+Forge Hammer
+Fork
+Fortifying Cry
+Fortifying CryForge HammerSunder
+Fortress I
+Fortress II
+Fragmentation Rounds
+Fragmenting Rounds
+Fragments
+Freeze
+Freeze Buildup
+Freezefork
+Freezing
+Freezing Mark
+Freezing Salvo
+Freezing Shards
+Frenzied Riposte
+Frenzy Charge
+Frenzy Charges
+Fresh Clip I
+Fresh Clip II
+Frost Bolt
+Frost Bomb
+Frost Darts
+Frost Nexus
+Frost Wall
+Frostblink
+Frostbolt
+Frostfire
+Frozen
+Frozen Locus
+Frozen Spite
+Frozen Vortex
+Fully Armour Broken
+Fully Break
+Fully Breaking
+Fully Breaking Armour
+Fully Breaks
+Fully Broken
+Fully Broken Armour
+Fulminating Concoction
+Fulmination
+Fusillade
+Future-Past
+GGG Tracker
+Gain
+Gained
+Gaining
+Gains
+Galvanic Arrow
+Galvanic Field
+Galvanic Shards
+Galvanic Shock
+Gambleshot
+Garukhan's Resolve
+Gas Arrow
+Gas Grenade
+Gathering Storm
+Gem Enthusiast
+Gemling Legionnaire
+Gems
+Ghost Dance
+Glacial Bolt
+Glacial Cascade
+Glacial Lance
+Glacier
+Glory
+Goat's Horn
+Greatwood I
+Greatwood II
+Greed
+Grenade
+Grenades
+Guard
+Guilt
+Haemocrystals
+Hailrake
+Hailstorm Rounds
+Hammer of the Gods
+Hand of Chayula
+Hardy Totems I
+Hardy Totems II
+Harmonic Remnants I
+Harmonic Remnants II
+Hazard
+Hazardous
+Hazards
+Heart of Ice
+Heat
+Heavily Stun
+Heavily Stunned
+Heavily Stunning
+Heavy Stun
+Heavy Stunned
+Heavy Stunning
+Heavy Swing
+Heft
+Heightened Accuracy I
+Heightened Accuracy II
+Heightened Charges
+Heightened Curse
+Herald
+Herald of Ash
+Herald of Blood
+Herald of Ice
+Herald of Plague
+Herald of Thunder
+Herbalism I
+Herbalism II
+Hex Bloom
+Hexblast
+High Velocity Rounds
+Hinder
+Hindering
+Hinders
+Hit Damage
+Hit and Run
+Hits
+Hitting
+Hoarfrost
+Hobble
+Hollow Palm
+Holy Descent
+Hourglass
+Hulking Minions
+Hypothermia
+Ice Bite
+Ice Crystal
+Ice Crystals
+Ice Fragment
+Ice Fragments
+Ice Nova
+Ice Shards
+Ice Shot
+Ice Strike
+Ice StrikeTempest FlurryWind Blast
+Ice-Tipped Arrows
+Icicle
+Ignite
+Ignite I
+Ignite II
+Ignite III
+Ignited
+Ignited Ground
+Ignites
+Igniting
+Immobilised
+Immolate
+Impact Shockwave
+Impale
+Impales
+Impending Doom
+Impurity
+Incendiary Shot
+Incinerate
+IncinerateLightning WarpFrost Wall
+Incision
+Inevitable Agony
+Inevitable Critical
+Infernal Cry
+Infernal Legion I
+Infernal Legion II
+Infernal Legion III
+Infusion
+Inhibitor
+Innervate
+Integrated Efficiency
+Intelligence
+Intense Agony
+Intimidate
+Intimidates
+Into the Breach
+Invocation
+Invoking
+Iron Ward
+Isolation
+Item
+Ixchel's Torment
+JP Japanese
+Jade
+Jagged Ground
+Jagged Ground I
+Jagged Ground II
+KR 한국어
+Kalisa's Crescendo
+Kaom's Madness
+Keywords
+Killed
+Killing Blows
+Killing Palm
+Knock Back
+Knockback
+Knocked Back
+Knocking Back
+Knocks Back
+Kulemak's Dominion
+Kurgal's Leash
+Last Gasp
+Lasting Ground
+Lasting Shock
+Leap Slam
+Leech
+Leech Life
+Leech Mana
+Leech Rage
+Leverage
+Life Bounty
+Life Drain
+Life Leech I
+Life Leech II
+Life Leech III
+Life Remnants
+Lifetap
+Light Radius
+Light Stunned
+Lightning
+Lightning Ailment
+Lightning Ailments
+Lightning Arrow
+Lightning Attunement
+Lightning Bolt
+Lightning Conduit
+Lightning Exposure
+Lightning Infusion
+Lightning Mastery
+Lightning Penetration
+Lightning Resistance
+Lightning Rod
+Lightning Spear
+Lightning Warp
+Lightning-Infused
+Limit
+Limited
+Lineage
+Lineage Support
+Lineage Supports
+Lingering Illusion
+Liquid Emotions
+Living Bomb
+Living Lightning
+Living Lightning II
+Load
+Load your Crossbow
+Lockdown
+Long Fuse I
+Long Fuse II
+Longshot I
+Longshot II
+Low Life
+Loyalty
+Lucky
+Mace
+Mace Strike
+Magma Barrier
+Magnetic Remnants
+Magnetic Salvo
+Magnified Area I
+Magnified Area II
+Maim
+Maimed
+Maiming
+Malady
+Malice
+Mana Bounty
+Mana Drain
+Mana Flare
+Mana Leech
+Mana Remnants
+Mana Tempest
+Manifest Weapon
+Mantra of Destruction
+Mark
+Mark for Death
+Marked
+Marks
+Martial Weapon
+Maximum Cold Resistance
+Maximum Elemental Resistances
+Maximum Fire Resistance
+Maximum Lightning Resistance
+Meat Shield I
+Meat Shield II
+Meditate
+Melee
+Mercenary
+Merge
+Merging
+Meta
+Meta Gems
+Minion
+Minion Instability
+Minion Mastery
+Minion Pact I
+Minion Pact II
+Minion's
+Minions
+Mirage Archer
+Mobility
+Modifier
+Modifiers
+Molten Blast
+Molten Fissure
+Molten Fissures
+Momentum
+Mortar Cannon
+Multishot I
+Multishot II
+Murderous Intent
+Muster
+Mysticism I
+Mysticism II
+Nadir
+Neural Overload
+Nimble Reload
+Nome não especificado
+Non-Final Strike
+Normal or Magic
+Nova
+Nova Projectiles
+Occult
+Offering
+Offerings
+Oil Grenade
+Orb of Storms
+Outmaneuver
+Overabundance I
+Overabundance II
+Overabundance III
+Overcharge
+Overextend
+Overflow
+Overflowed
+Overkill
+Overreach
+Overwhelming Presence
+PO Português
+Pacified
+Pain Offering
+Paquate's Pact
+Paranoia
+Parried
+Parried Debuff
+Parry
+Passive Skill Tree
+Patreon
+Payload
+Payoff
+Penetrate
+Perfect Strike
+Perfect Timing
+Perfected Endurance
+Perfection
+Perfectly Timing
+Permafrost Bolts
+Perpetual Charge
+Persistent
+Persistent Ground I
+Persistent Ground II
+Persistent Ground III
+Physical
+Physical Damage
+Physical Mastery
+Pierce
+Pierce I
+Pierce II
+Pierce III
+Piercing
+Piety's Mercy
+Pillar of the Caged God
+Pin I
+Pin II
+Pin III
+Pinned
+Pinning
+Pinpoint Critical
+Plague Bearer
+Plasma Blast
+PoE2DB
+PoEDB
+Poison
+Poison I
+Poison II
+Poison III
+Poisonburst Arrow
+Poisoned
+Poisonous
+Poisons
+Portal
+Potent Exposure
+Potential
+Power
+Power Charge
+Power Charges
+Power Siphon
+Power, Frenzy or Endurance Charges
+Practiced Combo
+Precision I
+Precision II
+Premeditation
+Presence
+Primal Strikes
+Primal StrikesGlacial LanceBlood Hunt
+Primed
+Primed for Electrocution
+Primed for Freeze
+Primed for Stun
+Privacy
+Profane Ritual
+Profanity I
+Profanity II
+Projectile
+Projectile Acceleration I
+Projectile Acceleration II
+Projectile Acceleration III
+Projectile Deceleration I
+Projectile Deceleration II
+Projectiles
+Prolonged Duration I
+Prolonged Duration II
+Prolonged Duration III
+Punch
+Punch Through
+Purity of Fire
+Purity of Ice
+Purity of Lightning
+Purple Flames of Chayula
+Pursuit I
+Pursuit II
+Pursuit III
+Quarterstaff
+Quarterstaff Strike
+Quest
+Quill Burst
+RU Русский
+Rage
+Rage I
+Rage II
+Rage III
+Rageforged I
+Rageforged II
+Raging Cry
+Raging Spirits
+Rain of Arrows
+Raise Shield
+Raise Spectre
+Raise Zombie
+Rake
+Rakiata's Flow
+Rally
+Rapid Assault
+Rapid Attacks I
+Rapid Attacks II
+Rapid Attacks III
+Rapid Casting I
+Rapid Casting II
+Rapid Casting III
+Rapid Shot
+Rare
+Rare and Unique
+Rarity
+Ratha's Assault
+Ravenous Swarm
+Reap
+Reaper's Invocation
+Rearm I
+Rearm II
+Recently
+Recharge
+Recharge Energy Shield
+Recharging
+Recoup
+Recouped
+Refraction I
+Refraction II
+Refraction III
+Reinforced Totems I
+Reinforced Totems II
+Relentless Rage
+Remnant
+Remnant Potency I
+Remnant Potency II
+Remnant Potency III
+Remnants
+Remote
+Repeat
+Req Level
+Reservation
+Resistance
+Resistances
+Resonance
+Resonating Shield
+Retaliate I
+Retaliate II
+Retaliated
+Retaliated with Thorns
+Retreat I
+Retreat II
+Retreat III
+Returning Projectiles
+Reverberate
+Revive
+Revived
+Reviving
+Rhoa Mount
+Ricochet I
+Ricochet II
+Ricochet III
+Rigwald's Ferocity
+Rime
+Rising Tempest
+Ritual Sacrifice
+Ritualistic Curse
+Riven Armour
+Rolling Slam
+Rolling SlamBoneshatterEarthquake
+Romira's Requital
+Runic Inscriptions
+Rupture
+Rusted Spikes
+Ruthless
+Sacrifice
+Sacrifice(14)Minion,Buff,Persistent
+Sacrificial Lamb I
+Sacrificial Lamb II
+Sacrificial Offering
+Salvo
+Scattershot
+Scavenged Plating
+Searing Flame I
+Searing Flame II
+Second Wind I
+Second Wind II
+Second Wind III
+See Red
+Seismic Cry
+Selfless Remnants
+Shapeshift
+Shard Scavenger
+Shattering
+Shattering Concoction
+Shattering Palm
+Shattering PalmWhirling Assault
+Shield
+Shield Charge
+Shield Wall
+Shock
+Shock Conduction
+Shock Siphon
+Shockburst Rounds
+Shockchain Arrow
+Shockchain ArrowTornado Shot
+Shocked
+Shocked Ground
+Shocking
+Shocking Leap
+Shocks
+Shockwave Totem
+Short Fuse I
+Short Fuse II
+Shrapnel Ballista
+Siege Ballista
+Siege Cascade
+Sigil of Power
+Sione's Temper
+Siphon Elements
+Siphoning Strike
+Skeletal Arsonist
+Skeletal Brute
+Skeletal Cleric
+Skeletal Frost Mage
+Skeletal Reaver
+Skeletal ReaverDespairDark Effigy
+Skeletal Sniper
+Skeletal Storm Mage
+Skeletal Warrior
+Skill Gems Gem/310
+Skill Gems Gemcutting /49
+Skill Gems Summary /309
+Skill Level
+Skill Speed
+Skittering Stone I
+Skittering Stone II
+Slam
+Slamming
+Slams
+Slow Potency
+Slowing
+Slows
+Snap
+Snipe
+Sniper's Mark
+Sniper's MarkGas ArrowVoltaic Mark
+Socket Number
+Solar Orb
+Solus IpseGrand Visage
+Sorcery Ward
+Soul Drain
+Soul Eater
+Soul Offering
+Soulbreaker
+Soulrend
+Spar
+Spark
+SparkIce NovaFlame WallFrost Bomb
+Spear
+Spear Stab
+Spear Throw
+Spear of Solaris
+Spear of SolarisWind Serpent's Fury
+Spearfield
+Spears
+Spectral Volley
+Spell
+Spell Cascade
+Spell Echo
+Spells
+Spellslinger
+Spiral Volley
+Spiral VolleyMagnetic SalvoToxic Domain
+Spirit
+Spirit Gems
+Spreading
+Spreading Frost
+Staged
+Staggering Palm
+Stampede
+Steadfast I
+Steadfast II
+Stoicism I
+Stoicism II
+Stomping Ground
+Storm Lance
+Storm Wave
+Stormblast Bolts
+Stormcaller Arrow
+Stormchain
+Stormfire
+Stormweaver
+Streamlined Rounds
+Strength
+Strike
+Strikes
+Striking
+Strong Hearted
+Stun
+Stun I
+Stun II
+Stun III
+Stun Threshold
+Stunned
+Stunning
+Suffering
+Summon Infernal Hound
+Summon Skeletons
+Sunder
+Sundered Armour
+Supercharged Slam
+Supercharged SlamSeismic CryStampede
+Supercritical
+Support Gem
+Support Gem Categories
+Support Gems All Gems /5
+Support Gems Gem/471
+Support Gems List /471
+SupportGem Ref /14
+Supporting Fire
+Surefooted Sigil
+Surges
+Surrounded
+Sustained
+Swift Affliction I
+Swift Affliction II
+Swift Affliction III
+Sword Slash
+Syzygy
+TH ภาษาไทย
+TW 正體中文
+Tacati's Ire
+Tame Beast
+Tawhoa's Tending
+Tear
+Tecrod's Revenge
+Temper Weapon
+Tempest Bell
+Tempest Flurry
+Temporal Chains
+Temporal Rift
+Thaumaturgical Infusion
+Thorns
+Thornskin I
+Thornskin II
+Thrillsteel
+Thunderous Leap
+Tier
+Tier Level /20
+Time Freeze
+Time Snap
+Time of Need
+Tireless
+Titan
+Tornado Shot
+Total
+Totem
+Totems
+Toxic Domain
+Toxic Growth
+Trail of Caltrops
+Traps
+Travel
+Tremors
+Trigger
+Triggered
+Triggering
+Triggers
+Trinity
+Tul's Stillness
+Tumult
+Twister
+Types
+US English
+Uhtred's Augury
+Uhtred's Exodus
+Uhtred's Omen
+Unabating
+Unarmed
+Unbending
+Unbothering Cold
+Unbound Avatar
+Unbound Fury
+Unbreakable
+Undermine
+Unearth
+UnearthContagionSkeletal Sniper
+Unerring Power
+Unholy Might
+Unique
+Unknown
+Unleash
+Unnatural Resilience
+Unsteady Tempo
+Untouchable
+Unyielding
+Upheaval I
+Upheaval II
+Upheaval II(5)Support,Attack,Melee
+Upwelling I
+Upwelling II
+Urgent Totems I
+Urgent Totems II
+Urgent Totems III
+Uruk's Smelting
+Uul-Netol's Embrace
+Vanguard I
+Vanguard II
+Varashta's Blessing
+Vaulting Impact
+Verglas
+Vilenta's Propulsion
+Vine Arrow
+Vitality I
+Vitality II
+Void Illusion
+Volatile Dead
+Volatile Power
+Volatility
+Volcanic Eruption
+Volcanic Fissure
+Volt
+Voltaic Grenade
+Voltaic Mark
+Vulnerability
+Wanderlust
+War Banner
+Warcries
+Warcry
+Warm Blooded
+Wave of Frost
+Waystones
+Weapon
+Weapon Set
+Whirling Assault
+Whirling Slash
+Whirlwind
+Whirlwind Lance
+Wildfire
+Wildshards I
+Wildshards II
+Wind Blast
+Wind Dancer
+Wind Serpent's Fury
+Wind Wave
+Window of Opportunity I
+Window of Opportunity II
+Wither
+Withering Presence
+Withering Touch
+Withers
+Xoph's Pyre
+Zarokh's Refrain
+Zenith I
+Zenith II
