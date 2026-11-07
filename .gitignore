@@ -50,3 +50,6 @@ ENV/
 
 # Log files
 *.log
+
+# Local secrets file
+chaves.txt
